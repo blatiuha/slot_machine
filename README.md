@@ -23,9 +23,9 @@ The Crypto Rich Slot Machine is a simple slot machine game built using Python's 
    ```
 
 2. **Install Dependencies**:
-   Ensure you have Python installed along with the `PIL` library for image handling:
+   Ensure you have Python installed, then install the required packages:
    ```bash
-   pip install pillow
+   pip install -r requirements.txt
    ```
 
 3. **Prepare Images**:
@@ -62,7 +62,7 @@ The Crypto Rich Slot Machine is a simple slot machine game built using Python's 
 ## Troubleshooting
 
 - Ensure all images are correctly placed in the `images` directory.
-- If the game doesn't etht, check for missing dependencies or incorrect file paths.
+- If the game doesn't start, check for missing dependencies or incorrect file paths.
 
 ## License
 
